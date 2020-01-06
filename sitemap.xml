@@ -10,32 +10,12 @@
     <url>
         <loc>https://moritz.sauer.io/categories/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-        <priority>0</priority>
-    </url>
-    
-    <url>
-        <loc>https://moritz.sauer.io/dj-mix-download/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>https://moritz.sauer.io/musik/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>https://moritz.sauer.io/fotos/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>https://moritz.sauer.io/interviews/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -86,7 +66,8 @@
     <url>
         <loc>https://moritz.sauer.io/tags/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-        <priority>0</priority>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
     </url>
     
     <url>
