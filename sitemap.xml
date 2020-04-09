@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>https://moritz.sauer.io/biografie/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>https://moritz.sauer.io/categories/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
@@ -23,6 +30,13 @@
     
     <url>
         <loc>https://moritz.sauer.io/kontakt/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://moritz.sauer.io/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -50,20 +64,6 @@
     </url>
     
     <url>
-        <loc>https://moritz.sauer.io/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>https://moritz.sauer.io/webdesign/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
         <loc>https://moritz.sauer.io/tags/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
@@ -71,7 +71,7 @@
     </url>
     
     <url>
-        <loc>https://moritz.sauer.io/biografie/</loc>
+        <loc>https://moritz.sauer.io/webdesign/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
