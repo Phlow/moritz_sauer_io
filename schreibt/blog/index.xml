@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archiv on Sign o&#39; the Times</title>
-    <link>https://moritz.sauer.io/blog/</link>
+    <link>https://moritz.sauer.io/schreibt/blog/</link>
     <description>Recent content in Archiv on Sign o&#39; the Times</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
     <lastBuildDate>Mon, 01 Jun 2020 22:31:55 +0200</lastBuildDate>
     
-	<atom:link href="https://moritz.sauer.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moritz.sauer.io/schreibt/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spiel doch mal Clash Royale!</title>
-      <link>https://moritz.sauer.io/blog/2020-06-01-clash-royale/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-06-01-clash-royale/</link>
       <pubDate>Mon, 01 Jun 2020 22:31:55 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2020-06-01-clash-royale/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-06-01-clash-royale/</guid>
       <description>Wieviel Werbeblöcke ich auf YouTube &amp;amp; Co. ignoriert oder weggeklickt habe, weiß ich nicht mehr. Aber Clash Royale war oft dabei und ich habe mir immer gedacht: So ein Nonsense. Bestimmt so ein Klickerspiel wie Plants vs. Zombies oder Candy Crush. Bis FC Stoffel mich auf die Idee gebracht hat, dass Spiel mal auszuprobieren…
 Ich komme also zehn Jahre später zur Party. Aber ich muss schon sagen, dass Clash Royale ein exzellent gemachtes casual game mit absolutem Suchtfaktor ist.</description>
     </item>
     
     <item>
       <title>Struffeltroute  – Wandern in der Eifel</title>
-      <link>https://moritz.sauer.io/blog/2020-06-01-struffeltroute-eifel-wandern/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-06-01-struffeltroute-eifel-wandern/</link>
       <pubDate>Mon, 01 Jun 2020 14:39:29 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2020-06-01-struffeltroute-eifel-wandern/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-06-01-struffeltroute-eifel-wandern/</guid>
       <description>Bei wunderbaren Wetter mit den Kindern sind wir am Wochenende in der Eifel die Struffeltroute gewandert.
 Die Route ist ca. 11 km lang und für Kinder hervorragend geeignet. Die Route führt einen auf unterschiedlichen Wegen durch den Wald, durch ein – ich nenne es mal trockenes – Moor und ein wenig auf offener Fläche. Die Wege sind mal malerisch schmal oder ordentlich ausgebaut mit Split.
 Insgesamt ein lohnender Ausflug, um mal abzuschalten.</description>
@@ -35,10 +35,10 @@ Insgesamt ein lohnender Ausflug, um mal abzuschalten.</description>
     
     <item>
       <title>Hugo – If-Abfragen</title>
-      <link>https://moritz.sauer.io/blog/2020-06-01-hugo-if/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-06-01-hugo-if/</link>
       <pubDate>Fri, 01 May 2020 22:39:29 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2020-06-01-hugo-if/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-06-01-hugo-if/</guid>
       <description>Bei meiner Webdesign-Arbeit mit dem Website Generator Hugo stolpere ich immer wieder über die Konstruktion von if- oder where-Abfragen. Darum sammel ich an dieser Stelle Beispiele und Varianten.
 Inhaltsverzeichnis
  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann…    Wenn in .Section, dann… {{ if (eq .Section &amp;quot;pages&amp;quot;) }} &amp;lt;!-- wenn in Section pages --&amp;gt; {{ end }} Wenn Parameter 1 oder 2 vorhanden ist, dann… {{ if or .</description>
@@ -46,10 +46,10 @@ Inhaltsverzeichnis
     
     <item>
       <title>Hugo – Range-Schleifen</title>
-      <link>https://moritz.sauer.io/blog/2020-06-01-hugo-range/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-06-01-hugo-range/</link>
       <pubDate>Fri, 01 May 2020 14:39:29 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2020-06-01-hugo-range/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-06-01-hugo-range/</guid>
       <description>Bei meiner Webdesign-Arbeit mit dem Website Generator Hugo stolpere ich immer wieder über die Syntax von range-Schleifen. Hier eine Liste verschiedener Varianten, um Beiträge auszugeben.
 Inhaltsverzeichnis
  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data    Eine Section mit Index-Seite ausgeben {{ range where .Site.Pages &amp;quot;Section&amp;quot; &amp;quot;blog&amp;quot; }} &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{.Permalink}}&amp;quot;&amp;gt;{{.Title}}&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; {{ end }} Eine Section ohne Index-Seite ausgeben {{ range where .</description>
@@ -57,39 +57,39 @@ Inhaltsverzeichnis
     
     <item>
       <title>Zoom-Meeting schützen – Einstellungen für die Privatssphäre</title>
-      <link>https://moritz.sauer.io/blog/2020-04-17-zoom-datenschutz-einstellungen/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-04-17-zoom-datenschutz-einstellungen/</link>
       <pubDate>Fri, 17 Apr 2020 10:58:34 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2020-04-17-zoom-datenschutz-einstellungen/</guid>
-      <description>&lt;img src=&#34;https://moritz.sauer.io/img/blog/zoom-meeting-schutz-schuetzen-1000x700.jpg&#34; alt=&#34;Nomadland Cover&#34;&gt;
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-04-17-zoom-datenschutz-einstellungen/</guid>
+      <description>&lt;img src=&#34;https://moritz.sauer.io/schreibt/img/blog/zoom-meeting-schutz-schuetzen-1000x700.jpg&#34; alt=&#34;Nomadland Cover&#34;&gt;
 &lt;p&gt;Damit Dein Zoom-Meeting geschützt ist und nicht unnötig Daten gespeichert werden, gibt es zahlreiche Einstellungen. Und so findest Du sie.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Facebook Libra</title>
-      <link>https://moritz.sauer.io/blog/facebook-libra/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/facebook-libra/</link>
       <pubDate>Mon, 24 Jun 2019 13:58:34 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/facebook-libra/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/facebook-libra/</guid>
       <description>&lt;p&gt;Facebook strickt an einer eigenen Währung und holt gerade Banken und größere Firmen an Bord. Warum macht Facebook das?!?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>China: So funktioniert Überwachung und Digitalisierung</title>
-      <link>https://moritz.sauer.io/blog/china-ueberwachung/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/china-ueberwachung/</link>
       <pubDate>Mon, 17 Jun 2019 10:40:46 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/china-ueberwachung/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/china-ueberwachung/</guid>
       <description>Wenn Kinder in eine Grundschule in Shenzhen (Video) gehen, laufen Sie erst einmal an der Gesichtserkennung vorbei, um in die Schule zu kommen. Ein größerer Baustein in der Überwachung ist die »Social Media-Plattform« WeChat. WeChat dient als Plattform für soziale Interaktionen, ist eine Form von Währung, eine Dating-App, ein Werkzeug für Sportmannschaften und ein Nachrichtenlieferant…
 WeChat selbst, lässt sich von der chinesischen Regierung überwachen. Wie wichtig WeChat im Alltag eines Chinesen ist und was passiert, wenn man ausgeschlossen wird, liest Du im BBC-Artikel »China social media: WeChat and the Surveillance State«</description>
     </item>
     
     <item>
       <title>Nomadland – Vandwelling am Abgrund Amerikas</title>
-      <link>https://moritz.sauer.io/blog/buchkritik-jessica-bruder-nomadland/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/buchkritik-jessica-bruder-nomadland/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/buchkritik-jessica-bruder-nomadland/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/buchkritik-jessica-bruder-nomadland/</guid>
       <description>In »Nomadland« steigen wir mit Jessica Bruder in einen Van und folgen den Spuren der »neuen« Nomaden Amerikas. Es ist eine herzerschütternde Reise.
 Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag »Meet the CamperForce, Amazon&amp;rsquo;s Nomadic Retiree Army« auf Wired.com geworden. Anschließend habe ich das Buch gekauft und es hat sich vollkommen gelohnt. Aber worum geht&amp;rsquo;s?
 »Nomadland« basiert auf einer dreijährigen Recherche der Journalistin Jessica Bruder. Das Buch dokumentiert, verfolgt und beschreibt eine »neue« wachsende Bevölkerungsgruppe in den USA, die sich eine Wohnung nicht mehr leisten können.</description>
@@ -97,47 +97,47 @@ Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag �
     
     <item>
       <title>Alle sollen meine Musik hören</title>
-      <link>https://moritz.sauer.io/blog/2018-11-23-digitaler-musikvertrieb/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2018-11-23-digitaler-musikvertrieb/</link>
       <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2018-11-23-digitaler-musikvertrieb/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2018-11-23-digitaler-musikvertrieb/</guid>
       <description>&lt;p&gt;Alle sollen meine Musik hören! In diesem Beitrag zum &lt;em&gt;Create Music Workshop&lt;/em&gt;, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes, Amazon &amp;amp; Co verbreitest.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Website-Optimierung mit Google Web.dev</title>
-      <link>https://moritz.sauer.io/blog/2018-11-15-webdesign-mit-google-web.dev-optimieren/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2018-11-15-webdesign-mit-google-web.dev-optimieren/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2018-11-15-webdesign-mit-google-web.dev-optimieren/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2018-11-15-webdesign-mit-google-web.dev-optimieren/</guid>
       <description>&lt;p&gt;Die Google-Plattform &lt;a href=&#34;https://web.dev/&#34;&gt;https://web.dev/&lt;/a&gt; unterstützt Dich als Entwickler von Websites. Neben Test-Werkzeugen, lernst Du moderne Webtechniken über zahlreiche Beiträge. Zum Beispiel, wie Du &lt;a href=&#34;https://web.dev/fast#topic-Optimize-your-images&#34;&gt;Bilder für schnellere Ladezeiten optimierst&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Datenschutzerklärung – Google Fonts selbst einbauen</title>
-      <link>https://moritz.sauer.io/blog/2018-06-25-google-fonts-datenschutzerklaerung/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2018-06-25-google-fonts-datenschutzerklaerung/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2018-06-25-google-fonts-datenschutzerklaerung/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2018-06-25-google-fonts-datenschutzerklaerung/</guid>
       <description>&lt;p&gt;Überall herrscht Verwirrung und in Gesprächen poppt auch immer öfter die Frage auf: &lt;em&gt;Und, was ist mit den &lt;a href=&#34;https://fonts.google.com/&#34;&gt;Google Fonts&lt;/a&gt;?&lt;/em&gt; Tja, wenn die Google Fonts von den Google Servern nachgeladen werden, dann muss auch auf Google Fonts in der Datenschutzerklärung hingewiesen werden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shortcodes für WordPress.com Websites</title>
-      <link>https://moritz.sauer.io/blog/2018-06-22-shortcodes-fuer-wordpress-com-websites/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2018-06-22-shortcodes-fuer-wordpress-com-websites/</link>
       <pubDate>Fri, 22 Jun 2018 12:33:58 +0000</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2018-06-22-shortcodes-fuer-wordpress-com-websites/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2018-06-22-shortcodes-fuer-wordpress-com-websites/</guid>
       <description>Mit Hilfe von Shortcodes lassen sich auch in Beiträgen dynamische Inhalte erstellen. Oder man nutzt eine der zahlreichen WordPress-Funktionen wie [audio], um ein MP3 in den Beitrag einzubauen.
 Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl den man in einen Artikel eingibt. Mit Shortcodes fügt man größere Schnipsel ein oder lässt über Shortcodes kleinere schnuckelige Funktionen ausführen – je nach Programmierung. So kann man z.B. mit Shortcodes Dateien einbauen oder Objekte kreieren, die man sonst im Theme realisieren müsste.</description>
     </item>
     
     <item>
       <title>Kasper Skårhøj – Was Open Source und Christentum gemeinsam haben</title>
-      <link>https://moritz.sauer.io/blog/2003-04-29-typo-3-interview-kaspar/</link>
+      <link>https://moritz.sauer.io/schreibt/blog/2003-04-29-typo-3-interview-kaspar/</link>
       <pubDate>Tue, 29 Apr 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://moritz.sauer.io/blog/2003-04-29-typo-3-interview-kaspar/</guid>
+      <guid>https://moritz.sauer.io/schreibt/blog/2003-04-29-typo-3-interview-kaspar/</guid>
       <description>&lt;p&gt;Ist Open Source der Quell aller Weisheit? Sind Projekte wie Linux, Apache oder auch das Redaktionssystem Typo3 ein Schritt in Richtung Wissens-oder Web-Demokratie? Bekommen die Programmierer hinter den Projekten eigentlich eine angemessene Vergütung? Ein Interview mit Typo3-Programmierer Kasper Skårhø.&lt;/p&gt;</description>
     </item>
     

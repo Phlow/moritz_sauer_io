@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Sign o&#39; the Times</title>
-    <link>https://moritz.sauer.io/pages/</link>
+    <link>https://moritz.sauer.io/schreibt/pages/</link>
     <description>Recent content in Pages on Sign o&#39; the Times</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
     <lastBuildDate>Mon, 01 Jun 2020 14:39:29 +0200</lastBuildDate>
     
-	<atom:link href="https://moritz.sauer.io/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moritz.sauer.io/schreibt/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wer schreibt hier?</title>
-      <link>https://moritz.sauer.io/info/</link>
+      <link>https://moritz.sauer.io/schreibt/info/</link>
       <pubDate>Mon, 01 Jun 2020 14:39:29 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/info/</guid>
+      <guid>https://moritz.sauer.io/schreibt/info/</guid>
       <description>Für diese Website ist laut Impressum Moritz »mo.« Sauer verantwortlich. Dort findest Du auch die Datenschutzerklärung. Für die Kommunikation dient die Kontaktseite.</description>
     </item>
     
