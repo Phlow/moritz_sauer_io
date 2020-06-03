@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 22:31:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 13:30:02 +0200</lastBuildDate>
     
 	<atom:link href="https://moritz.sauer.io/schreibt/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HTML-Typographie – Alle HTML5-Elemente teste</title>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-06-03-html-typografie-test/</link>
+      <pubDate>Wed, 03 Jun 2020 13:30:02 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-06-03-html-typografie-test/</guid>
+      <description>Das ist der Anreisser mit &amp;lt;p&amp;gt; und der Klasse .teaser. Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet. »Wie ein Hund!« sagte er, es war, als sollte die Scham ihn überleben. Inhaltsverzeichnis  HTML-Überschriften &amp;lt;a&amp;gt; – Links Listen &amp;lt;strong&amp;gt; – Starke Betonung &amp;lt;em&amp;gt; - Betonung &amp;lt;pre&amp;gt; Und so sehen Code-Beispiele aus &amp;lt;code&amp;gt; – Code per Inline-Element anzeigen. &amp;lt;blockquote&amp;gt; Zitat &amp;lt;cite&amp;gt; – Zitate als Inline-Elemente.</description>
+    </item>
+    
+    <item>
+      <title>.htaccess – Verschiedene Snippets</title>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-06-02-htaccess/</link>
+      <pubDate>Tue, 02 Jun 2020 13:30:02 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-06-02-htaccess/</guid>
+      <description>https forcieren Getestet für HostEurope
+RewriteEngine on RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC] RewriteRule ^(.*)$ https://%1/$1 [R=301,L] RewriteCond %{HTTPS} !on RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L] </description>
+    </item>
     
     <item>
       <title>Spiel doch mal Clash Royale!</title>
@@ -80,7 +99,8 @@ Inhaltsverzeichnis
       <pubDate>Mon, 17 Jun 2019 10:40:46 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/blog/china-ueberwachung/</guid>
-      <description>Wenn Kinder in eine Grundschule in Shenzhen (Video) gehen, laufen Sie erst einmal an der Gesichtserkennung vorbei, um in die Schule zu kommen. Ein größerer Baustein in der Überwachung ist die »Social Media-Plattform« WeChat. WeChat dient als Plattform für soziale Interaktionen, ist eine Form von Währung, eine Dating-App, ein Werkzeug für Sportmannschaften und ein Nachrichtenlieferant…
+      <description>Wenn Kinder in eine Grundschule in Shenzhen (Video) gehen, laufen Sie erst einmal an der Gesichtserkennung vorbei, um in die Schule zu kommen.
+Ein größerer Baustein in der Überwachung ist die »Social Media-Plattform« WeChat. WeChat dient als Plattform für soziale Interaktionen, ist eine Form von Währung, eine Dating-App, ein Werkzeug für Sportmannschaften und ein Nachrichtenlieferant…
 WeChat selbst, lässt sich von der chinesischen Regierung überwachen. Wie wichtig WeChat im Alltag eines Chinesen ist und was passiert, wenn man ausgeschlossen wird, liest Du im BBC-Artikel »China social media: WeChat and the Surveillance State«</description>
     </item>
     
