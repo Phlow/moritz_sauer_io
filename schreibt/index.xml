@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Wed, 03 Jun 2020 13:30:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 15:33:03 +0200</lastBuildDate>
     
 	<atom:link href="https://moritz.sauer.io/schreibt/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grid</title>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-06-04-grid/</link>
+      <pubDate>Thu, 04 Jun 2020 15:33:03 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-06-04-grid/</guid>
+      <description>Grid Mit der CSS-Eigenschaft grid baut man sich schnell äußerst flexible Raster für seine Website. grid besitzt die Komplexität, die sich Webdesigner immer gewünscht haben.
+  Eltern-Element Um das Raster aufzuziehen, braucht man einen Container, der als Eltern-Element dient und das Layout-Modell ins Leben ruft. Das geschieht mit display: grid;. Mit grid-template-columns bestimmt man anschließend die Anzahl der Spalten/columns, die das Raster aufbauen soll.
+Im unteren Beispiel baut das Raster drei Spalten auf.</description>
+    </item>
     
     <item>
       <title>HTML-Typographie – Alle HTML5-Elemente teste</title>
