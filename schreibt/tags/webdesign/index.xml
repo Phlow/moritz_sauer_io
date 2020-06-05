@@ -13,13 +13,13 @@
     
     
     <item>
-      <title>Grid</title>
+      <title>Einfaches Raster mit dem CSS Grid</title>
       <link>https://moritz.sauer.io/schreibt/blog/2020-06-04-grid/</link>
       <pubDate>Thu, 04 Jun 2020 15:33:03 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/blog/2020-06-04-grid/</guid>
-      <description>Grid Mit der CSS-Eigenschaft grid baut man sich schnell äußerst flexible Raster für seine Website. grid besitzt die Komplexität, die sich Webdesigner immer gewünscht haben.
-  Eltern-Element Um das Raster aufzuziehen, braucht man einen Container, der als Eltern-Element dient und das Layout-Modell ins Leben ruft. Das geschieht mit display: grid;. Mit grid-template-columns bestimmt man anschließend die Anzahl der Spalten/columns, die das Raster aufbauen soll.
+      <description>Grid Mit der CSS-Eigenschaft grid baust Du Dir schnell äußerst flexible Raster für Deine Website. grid besitzt die Komplexität, die sich Webdesigner immer gewünscht haben.
+  Eltern-Element Um das Raster aufzuziehen, brauchst Du einen Container, der als Eltern-Element dient und das Layout-Modell ins Leben ruft. Das geschieht mit display: grid;. Mit grid-template-columns bestimmst Du anschließend die Anzahl der Spalten/columns, die grid aufbauen soll.
 Im unteren Beispiel baut das Raster drei Spalten auf.</description>
     </item>
     
@@ -30,6 +30,17 @@ Im unteren Beispiel baut das Raster drei Spalten auf.</description>
       
       <guid>https://moritz.sauer.io/schreibt/blog/2020-06-03-html-typografie-test/</guid>
       <description>Das ist der Anreisser mit &amp;lt;p&amp;gt; und der Klasse .teaser. Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet. »Wie ein Hund!« sagte er, es war, als sollte die Scham ihn überleben. Inhaltsverzeichnis  HTML-Überschriften &amp;lt;a&amp;gt; – Links Listen &amp;lt;strong&amp;gt; – Starke Betonung &amp;lt;em&amp;gt; - Betonung &amp;lt;pre&amp;gt; Und so sehen Code-Beispiele aus &amp;lt;code&amp;gt; – Code per Inline-Element anzeigen. &amp;lt;blockquote&amp;gt; Zitat &amp;lt;cite&amp;gt; – Zitate als Inline-Elemente.</description>
+    </item>
+    
+    <item>
+      <title>.htaccess – Verschiedene Snippets</title>
+      <link>https://moritz.sauer.io/schreibt/blog/2020-06-02-htaccess/</link>
+      <pubDate>Tue, 02 Jun 2020 13:30:02 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/blog/2020-06-02-htaccess/</guid>
+      <description>Mit der .htaccess-Datei steuerst Du das Verhalten des Servers, der Deine Webseiten ausliefert. Dazu gehören passwortgeschützte Websites, direkte Umleitungen von URLs oder auch die Kompression der Auslieferung via gzip.
+Inhaltsverzeichnis
+ https forcieren gzip-Komprimierung aktivieren    Warnung: Sollten die folgenden Code-Schnippsel nicht funktionieren, hat das sicherlich etwas mit den Server-Einstellungen Deines Anbieters zu tun. Die Code-Schnippsel funktionieren bei meinem Anbieter HostEurope. Wenn etwas nicht funktioniert, bitte nicht mich kontaktieren, sondern den Support Deines Anbieters.</description>
     </item>
     
     <item>
