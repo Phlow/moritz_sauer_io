@@ -3,35 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/</loc>
-    <lastmod>2020-06-04T15:33:03+02:00</lastmod>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2020-06-05-htaccess/</loc>
+    <lastmod>2020-06-05T13:30:02+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2020-06-04-grid/</loc>
-    <lastmod>2020-06-04T15:33:03+02:00</lastmod>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/</loc>
+    <lastmod>2020-06-05T13:30:02+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://moritz.sauer.io/schreibt/</loc>
-    <lastmod>2020-06-04T15:33:03+02:00</lastmod>
+    <lastmod>2020-06-05T13:30:02+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://moritz.sauer.io/schreibt/tags/</loc>
-    <lastmod>2020-06-04T15:33:03+02:00</lastmod>
+    <lastmod>2020-06-05T13:30:02+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://moritz.sauer.io/schreibt/tags/webdesign/</loc>
+    <lastmod>2020-06-05T13:30:02+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2020-06-04-grid/</loc>
     <lastmod>2020-06-04T15:33:03+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -45,15 +52,8 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2020-06-03-html-typografie-test/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2020-06-03-html-typografie-test/</loc>
     <lastmod>2020-06-03T13:30:02+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2020-06-02-htaccess/</loc>
-    <lastmod>2020-06-02T13:30:02+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -66,7 +66,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2020-06-01-clash-royale/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2020-06-01-clash-royale/</loc>
     <lastmod>2020-06-01T22:31:55+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -87,7 +87,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2020-06-01-struffeltroute-eifel-wandern/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2020-06-01-struffeltroute-eifel-wandern/</loc>
     <lastmod>2020-06-01T14:39:29+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -115,14 +115,14 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2020-06-01-hugo-if/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2020-06-01-hugo-if/</loc>
     <lastmod>2020-05-01T22:39:29+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2020-06-01-hugo-range/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2020-06-01-hugo-range/</loc>
     <lastmod>2020-05-01T14:39:29+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -150,7 +150,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2020-04-17-zoom-datenschutz-einstellungen/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2020-04-17-zoom-datenschutz-einstellungen/</loc>
     <lastmod>2020-04-17T10:58:34+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -171,14 +171,14 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/facebook-libra/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/facebook-libra/</loc>
     <lastmod>2019-06-24T13:58:34+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/china-ueberwachung/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/china-ueberwachung/</loc>
     <lastmod>2019-06-17T10:40:46+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -206,7 +206,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/buchkritik-jessica-bruder-nomadland/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/buchkritik-jessica-bruder-nomadland/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -241,7 +241,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2018-11-23-digitaler-musikvertrieb/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2018-11-23-digitaler-musikvertrieb/</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -269,7 +269,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2018-11-15-webdesign-mit-google-web.dev-optimieren/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2018-11-15-webdesign-mit-google-web.dev-optimieren/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -297,7 +297,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2018-06-25-google-fonts-datenschutzerklaerung/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2018-06-25-google-fonts-datenschutzerklaerung/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -318,7 +318,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2018-06-22-shortcodes-fuer-wordpress-com-websites/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2018-06-22-shortcodes-fuer-wordpress-com-websites/</loc>
     <lastmod>2018-06-22T12:33:58+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -339,7 +339,7 @@
   </url>
   
   <url>
-    <loc>https://moritz.sauer.io/schreibt/blog/2003-04-29-typo-3-interview-kaspar/</loc>
+    <loc>https://moritz.sauer.io/schreibt/schreibt/2003-04-29-typo-3-interview-kaspar/</loc>
     <lastmod>2003-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -348,6 +348,54 @@
   <url>
     <loc>https://moritz.sauer.io/schreibt/tags/typo3/</loc>
     <lastmod>2003-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/biografie/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/musik/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/kontakt/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/buecher/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/kunden/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/projekte/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/seminare/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/webdesign/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
