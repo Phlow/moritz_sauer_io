@@ -58,55 +58,46 @@
   <meta name="msapplication-TileColor" content="#fabb00" />
 </head>
 <body>
+  <main class="grid--center">
+  <style>
+  body, html, main {
+    height: 100%;
+    display: grid;
+  }
+  .centered {
+    margin: auto;
+    max-width: 36em;
+  }
+  .speech-bubble {
+      position: relative;
+      background: #ededed;
+      border-radius: .4em;
+      transform: rotate(1deg);
+  }
+  .speech-bubble:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 70%;
+      width: 0;
+      height: 0;
+      border: 39px solid transparent;
+      border-top-color: #ededed;
+      border-bottom: 0;
+      border-right: 0;
+      margin-left: -19.5px;
+      margin-bottom: -39px;
+  }
+  </style>
+    <div class="centered">
+      <div class="h2 p1 speech-bubble">
+        <p><em>Hallo! Ich bin <a href="https://moritz.sauer.io/biografie/">Moritz »mo.« Sauer</a>. <strong>Mein Produkt ist <a href="https://moritz.sauer.io/seminare/">Bildung</a></strong>. Seit 2000 baue ich <a href="https://moritz.sauer.io/webdesign/">Websites</a>, arbeite als <a href="https://moritz.sauer.io/biografie/#journalismus.md">Journalist</a> und <a href="https://moritz.sauer.io/buecher/">Buchautor</a> und vermittele mein Wissen in <a href="https://moritz.sauer.io/seminare/">Seminaren und Webinaren</a>. Ich helfe Menschen sich im Web und Social Media zu präsentieren und strategisch zu vermarkten. Ich <a href="https://moritz.sauer.io/schreibt/">schreibe</a> gerne und produziere <a href="https://moritz.sauer.io/musik/">Musik</a>. Wenn Sie mich brauchen, <a href="https://moritz.sauer.io/kontakt/">fragen Sie mich</a>!</em></p>
 
-<main class="grid--center">
-<style>
-body, html, main {
-  height: 100%;
-  display: grid;
-}
-.centered {
-  margin: auto;
-  max-width: 36em;
-}
-.speech-bubble {
-    position: relative;
-    background: #ededed;
-    border-radius: .4em;
-    transform: rotate(1deg);
-}
-.speech-bubble:after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 70%;
-    width: 0;
-    height: 0;
-    border: 39px solid transparent;
-    border-top-color: #ededed;
-    border-bottom: 0;
-    border-right: 0;
-    margin-left: -19.5px;
-    margin-bottom: -39px;
-}
-</style>
-
-<div class="centered">
-  <div class="h2 p1 speech-bubble">
-      <p><em>Hallo! Ich bin <a href="https://moritz.sauer.io/biografie/">Moritz »mo.« Sauer</a>. <strong>Mein Produkt ist <a href="https://moritz.sauer.io/seminare/">Bildung</a></strong>. Seit 2000 baue ich <a href="https://moritz.sauer.io/webdesign/">Websites</a>, arbeite als <a href="https://moritz.sauer.io/biografie/#journalismus.md">Journalist</a> und <a href="https://moritz.sauer.io/buecher/">Buchautor</a> und vermittele mein Wissen in <a href="https://moritz.sauer.io/seminare/">Seminaren und Webinaren</a>. Ich helfe Menschen sich im Web und Social Media zu präsentieren und strategisch zu vermarkten. Ich <a href="https://moritz.sauer.io/schreibt/">schreibe</a> gerne und produziere <a href="https://moritz.sauer.io/musik/">Musik</a>. Wenn Sie mich brauchen, <a href="https://moritz.sauer.io/kontakt/">fragen Sie mich</a>!</em></p>
-
-    <div>
-      <img width="160" style="margin-top: 3.5rem; transform: rotate(-2deg);float: right; border-radius: 50%;" src="https://moritz.sauer.io/img/moritz_mo_sauer_quadratisch-512x.jpg" alt="Hallo, ich bin Moritz »mo.« Sauer">
+        <div>
+          <img width="160" style="margin-top: 3.5rem; transform: rotate(-2deg);float: right; border-radius: 50%;" src="https://moritz.sauer.io/img/moritz_mo_sauer_quadratisch-512x.jpg" alt="Hallo, ich bin Moritz »mo.« Sauer">
+        </div>
+      </div>
     </div>
-  </div>
-
-
-
-
-</div>
-
-</main>
-
-
+  </main>
 </body>
 </html>
