@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 13:30:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 15:33:03 +0200</lastBuildDate>
     
 	<atom:link href="https://moritz.sauer.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,9 @@
     <item>
       <title>webdesign</title>
       <link>https://moritz.sauer.io/tags/webdesign/</link>
-      <pubDate>Fri, 05 Jun 2020 13:30:02 +0200</pubDate>
+      <pubDate>Thu, 04 Jun 2020 15:33:03 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/tags/webdesign/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://moritz.sauer.io/tags/html/</link>
-      <pubDate>Wed, 03 Jun 2020 13:30:02 +0200</pubDate>
-      
-      <guid>https://moritz.sauer.io/tags/html/</guid>
       <description></description>
     </item>
     
@@ -60,7 +51,7 @@
     <item>
       <title>hugo</title>
       <link>https://moritz.sauer.io/tags/hugo/</link>
-      <pubDate>Fri, 01 May 2020 22:39:29 +0200</pubDate>
+      <pubDate>Fri, 01 May 2020 14:39:29 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/tags/hugo/</guid>
       <description></description>
@@ -243,6 +234,15 @@
       <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/tags/typografie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://moritz.sauer.io/tags/html/</link>
+      <pubDate>Tue, 03 Jun 2008 13:30:02 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/tags/html/</guid>
       <description></description>
     </item>
     

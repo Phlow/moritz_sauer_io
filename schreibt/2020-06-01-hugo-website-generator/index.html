@@ -5,31 +5,30 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Hugo – Range-Schleifen</title>
+  <title>Hugo Website Generator – Hilfreiche Code-Snippets</title>
   
-    <meta name="description" content="Inhaltsverzeichnis
- Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn …">
-  <link rel="canonical" href="https://moritz.sauer.io/schreibt/2020-06-01-hugo-range/" />
+    <meta name="description" content="Hugo ist ein Static Website Generator, der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io. An dieser Stelle sammele ich …">
+  <link rel="canonical" href="https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/" />
   
   <meta name="robots" content="index, follow"/>  
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://moritz.sauer.io/schreibt/2020-06-01-hugo-range/">
-  <meta property="og:title" content="Hugo – Range-Schleifen - Moritz »mo.« Sauer – Dozent, Webdesigner und Autor">
+  <meta property="og:url" content="https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/">
+  <meta property="og:title" content="Hugo Website Generator – Hilfreiche Code-Snippets - Moritz »mo.« Sauer – Dozent, Webdesigner und Autor">
   <meta property="og:description" content="Moritz »mo.« Sauer arbeitet als Experte für Kunden und Institutionen in den Bereichen Journalismus, WordPress, Marketing, Social Media und Webdesign. - ">
   <meta property="og:image" content="https://moritz.sauer.io/img/about-me.jpg">  
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://moritz.sauer.io/schreibt/2020-06-01-hugo-range/">
-  <meta property="twitter:title" content="Hugo – Range-Schleifen - Moritz »mo.« Sauer – Dozent, Webdesigner und Autor">
+  <meta property="twitter:url" content="https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/">
+  <meta property="twitter:title" content="Hugo Website Generator – Hilfreiche Code-Snippets - Moritz »mo.« Sauer – Dozent, Webdesigner und Autor">
   <meta property="twitter:description" content="Moritz »mo.« Sauer arbeitet als Experte für Kunden und Institutionen in den Bereichen Journalismus, WordPress, Marketing, Social Media und Webdesign. - ">
   <meta property="twitter:image" content="https://moritz.sauer.io/img/about-me.jpg">    
     <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
-    "headline": "Hugo – Range-Schleifen",
+    "headline": "Hugo Website Generator – Hilfreiche Code-Snippets",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https:\/\/moritz.sauer.io\/schreibt\/2020-06-01-hugo-range\/"
+      "@id": "https:\/\/moritz.sauer.io\/schreibt\/2020-06-01-hugo-website-generator\/"
     },
     "image": {
       "@type": "ImageObject",
@@ -39,8 +38,8 @@
     },
     "genre": "schreibt",
     "keywords": "hugo, webdesign",
-    "wordcount":  1070 ,
-    "url": "https:\/\/moritz.sauer.io\/schreibt\/2020-06-01-hugo-range\/",
+    "wordcount":  1118 ,
+    "url": "https:\/\/moritz.sauer.io\/schreibt\/2020-06-01-hugo-website-generator\/",
     "datePublished": "2020-05-01",
     "dateModified": "2020-05-01",
     "license": "Alle Rechte vorbehalten",
@@ -58,7 +57,7 @@
       "@type": "Person",
       "name": "Moritz mo. Sauer"
     },
-    "description": "Inhaltsverzeichnis\n Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann…   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam   Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren   Hugo Shortcodes    Die wichtigsten Kommandos für das Terminal  hugo new site ORDNERNAME Legt ein neues Hugo-Projekt an hugo new theme [name] Legt ein fast leeres neues Theme an hugo server Startet den Hugo-Live-Server für die Entwicklung hugo config Listet alle gesetzten Konfigurationsparameter auf hugo -t themename Startet Hugo mit dem Theme themename  In der Dokumentation findest Du die Übersicht Aller Befehle der Hugo CLI."
+    "description": "Hugo ist ein Static Website Generator, der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io. An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.\nInhaltsverzeichnis\n Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann…   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht."
 
   }
   </script>
@@ -99,9 +98,10 @@
 <main class="layout--column--one">
 	<article>
 		<header class="mt3 mb1">
-			<h1>Hugo – Range-Schleifen</h1>
+			<h1>Hugo Website Generator – Hilfreiche Code-Snippets</h1>
 		</header>
-		
+		<p><a href="https://gohugo.io/">Hugo</a> ist ein <a href="https://www.staticgen.com/">Static Website Generator</a>, der zahlreiche meiner Websites baut – unter anderem <a href="https://phlow.de/">Phlow.de</a> und <a href="https://moritz.sauer.io/">Moritz.Sauer.io</a>. An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.</p>
+
 
 <aside class="toc small center bt bb mt2 mb2">
   
@@ -128,6 +128,13 @@
         <li><a href="#range-und-data">Range und Data</a></li>
         <li><a href="#sortieren-mit-sort">Sortieren mit <code>sort</code></a></li>
         <li><a href="#umgekehrte-sortierung-mit-reverse">Umgekehrte Sortierung mit <code>reverse</code></a></li>
+        <li><a href="#paginator--weiterblättern-alle-x-seiten">Paginator – Weiterblättern alle X Seiten</a></li>
+        <li><a href="#zeige-eine-liste-an-tags-an">Zeige eine Liste an Tags an</a></li>
+        <li><a href="#führe-eine-schleife-x-mal-aus">Führe eine Schleife X-Mal aus</a></li>
+        <li><a href="#first--zeige-die-letzten-drei-beiträge"><code>first</code> – Zeige die letzten drei Beiträge</a></li>
+        <li><a href="#zeige-beiträge-zu-einem-bestimmten-tag">Zeige Beiträge zu einem bestimmten Tag</a></li>
+        <li><a href="#after--zeige-beiträge-erst-nach-den-ersten-x-offset"><code>after</code> – Zeige Beiträge erst nach den ersten X (offset)</a></li>
+        <li><a href="#nach-parameter-hier-kategorien-gruppieren">Nach Parameter (hier: Kategorien) gruppieren</a></li>
         <li><a href="#sortieren-mit-range-nach-metadaten">Sortieren mit <code>range</code> nach Metadaten</a>
           <ol>
             <li><a href="#byweight">ByWeight</a></li>
@@ -142,13 +149,6 @@
             <li><a href="#byparam">ByParam</a></li>
           </ol>
         </li>
-        <li><a href="#paginator--weiterblättern-alle-x-seiten">Paginator – Weiterblättern alle X Seiten</a></li>
-        <li><a href="#zeige-eine-liste-an-tags-an">Zeige eine Liste an Tags an</a></li>
-        <li><a href="#führe-eine-schleife-x-mal-aus">Führe eine Schleife X-Mal aus</a></li>
-        <li><a href="#first--zeige-die-letzten-drei-beiträge"><code>first</code> – Zeige die letzten drei Beiträge</a></li>
-        <li><a href="#zeige-beiträge-zu-einem-bestimmten-tag">Zeige Beiträge zu einem bestimmten Tag</a></li>
-        <li><a href="#after--zeige-beiträge-erst-nach-den-ersten-x-offset"><code>after</code> – Zeige Beiträge erst nach den ersten X (offset)</a></li>
-        <li><a href="#nach-parameter-hier-kategorien-gruppieren">Nach Parameter (hier: Kategorien) gruppieren</a></li>
       </ol>
     </li>
     <li><a href="#hugo-shortcodes">Hugo Shortcodes</a></li>
@@ -156,6 +156,7 @@
 </nav>
 </aside>
 
+<p>Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht. Ich stolper immer wieder über IF-Abfragen oder Schleifen mit <code>range</code>. Darum diese Sammlung…</p>
 <h2 id="die-wichtigsten-kommandos-für-das-terminal">Die wichtigsten Kommandos für das Terminal</h2>
 <dl>
 <dt><code>hugo new site ORDNERNAME</code></dt>
@@ -199,7 +200,7 @@
 <dd>In diesen Ordner gehören Bilder, Javascripte, Fonts, Mediendateien,…</dd>
 </dl>
 <h2 id="if-abfragen-mit-hugo">if-Abfragen mit Hugo</h2>
-<p>Bei meiner <a href="https://moritz.sauer.io/tags/webdesign/">Webdesign</a>-Arbeit mit dem <a href="https://moritz.sauer.io/tags/hugo/">Website Generator Hugo</a> stolpere ich immer wieder über die Konstruktion von <em>if</em>- oder <em>where</em>-Abfragen. Darum sammel ich an dieser Stelle Beispiele und Varianten.</p>
+<p>Bei meiner <a href="https://moritz.sauer.io/tags/webdesign/">Webdesign</a>-Arbeit mit dem <a href="https://moritz.sauer.io/tags/hugo/">Website Generator Hugo</a> stolpere ich immer wieder über die Konstruktion von <em>if</em>- oder <em>where</em>-Abfragen. Hier zahlreiche funktionierende Beispiele…</p>
 <h3 id="wenn-_in-section_-dann">Wenn <em>in .Section</em>, dann…</h3>
 <pre><code>{{ if (eq .Section &quot;pages&quot;) }}
 &lt;!-- wenn in Section pages --&gt;
@@ -238,40 +239,6 @@
   {{ end }}
 </code></pre><h3 id="umgekehrte-sortierung-mit-reverse">Umgekehrte Sortierung mit <code>reverse</code></h3>
 <pre><code>    {{ range .Pages.ByTitle.Reverse }}
-    {{ end }}
-</code></pre><h3 id="sortieren-mit-range-nach-metadaten">Sortieren mit <code>range</code> nach Metadaten</h3>
-<h4 id="byweight">ByWeight</h4>
-<pre><code>    {{ range .Pages.ByWeight }}
-    {{ end }}
-</code></pre><h4 id="bytitle">ByTitle</h4>
-<pre><code>    {{ range .Pages.ByTitle }}
-    {{ end }}
-</code></pre><h4 id="bylength">ByLength</h4>
-<pre><code>    {{ range .Pages.ByLength }}
-    {{ end }}
-</code></pre><h4 id="bydate">ByDate</h4>
-<pre><code>    {{ range .Pages.ByDate }}
-    {{ end }}
-</code></pre><h4 id="bypublisheddate">ByPublishedDate</h4>
-<pre><code>    {{ range .Pages.ByPublishedDate }}
-    {{ end }}
-</code></pre><h4 id="byexirationdate">ByExirationDate</h4>
-<pre><code>    {{ range .Pages.ByExirationDate }}
-    {{ end }}
-</code></pre><h4 id="bylastmod">ByLastmod</h4>
-<pre><code>    {{ range .Pages.ByLastmod }}
-    {{ end }}
-</code></pre><h4 id="bytitle-1">ByTitle</h4>
-<pre><code>    {{ range .Pages.ByTitle }}
-    {{ end }}
-</code></pre><h4 id="bylinktitle">ByLinkTitle</h4>
-<pre><code>    {{ range .Pages.ByLinkTitle }}
-    {{ end }}
-</code></pre><h4 id="byparam">ByParam</h4>
-<pre><code>    {{ range (.Pages.ByParam &quot;parametername&quot;) }}
-    {{ end }}
-</code></pre><p>Verschachtele Parameter</p>
-<pre><code>    {{ range (.Pages.ByParam &quot;author.last_name&quot;) }}
     {{ end }}
 </code></pre><h3 id="paginator--weiterblättern-alle-x-seiten">Paginator – Weiterblättern alle X Seiten</h3>
 <pre><code>    {{ range (.Paginator 5).Pages }}
@@ -321,6 +288,40 @@
         {{ end }}
     &lt;/ul&gt;
     {{ end }}
+</code></pre><h3 id="sortieren-mit-range-nach-metadaten">Sortieren mit <code>range</code> nach Metadaten</h3>
+<h4 id="byweight">ByWeight</h4>
+<pre><code>    {{ range .Pages.ByWeight }}
+    {{ end }}
+</code></pre><h4 id="bytitle">ByTitle</h4>
+<pre><code>    {{ range .Pages.ByTitle }}
+    {{ end }}
+</code></pre><h4 id="bylength">ByLength</h4>
+<pre><code>    {{ range .Pages.ByLength }}
+    {{ end }}
+</code></pre><h4 id="bydate">ByDate</h4>
+<pre><code>    {{ range .Pages.ByDate }}
+    {{ end }}
+</code></pre><h4 id="bypublisheddate">ByPublishedDate</h4>
+<pre><code>    {{ range .Pages.ByPublishedDate }}
+    {{ end }}
+</code></pre><h4 id="byexirationdate">ByExirationDate</h4>
+<pre><code>    {{ range .Pages.ByExirationDate }}
+    {{ end }}
+</code></pre><h4 id="bylastmod">ByLastmod</h4>
+<pre><code>    {{ range .Pages.ByLastmod }}
+    {{ end }}
+</code></pre><h4 id="bytitle-1">ByTitle</h4>
+<pre><code>    {{ range .Pages.ByTitle }}
+    {{ end }}
+</code></pre><h4 id="bylinktitle">ByLinkTitle</h4>
+<pre><code>    {{ range .Pages.ByLinkTitle }}
+    {{ end }}
+</code></pre><h4 id="byparam">ByParam</h4>
+<pre><code>    {{ range (.Pages.ByParam &quot;parametername&quot;) }}
+    {{ end }}
+</code></pre><p>Verschachtele Parameter</p>
+<pre><code>    {{ range (.Pages.ByParam &quot;author.last_name&quot;) }}
+    {{ end }}
 </code></pre><h2 id="hugo-shortcodes">Hugo Shortcodes</h2>
 <p>Damit Markdown in Shortcodes nach HTML konvertiert wird, muss der Shortcode <code>%</code> nutzen.</p>
 <p><strong>HINWEIS: Da diese Website mit Hugo gebaut wird, musste ich das folgende Beispiel anpassen. Am Anfang steht ein <code>{{</code> und <em>Leerzeichen</em> und dann erst das <code>%</code>. Das Leerzeichen muss gelöscht werden!</strong></p>
@@ -364,7 +365,7 @@
 
             
             –
-              <a target="_blank" href="mailto:kommentare@sauer.io?subject=Kommentar%20zu%20Hugo%20%e2%80%93%20Range-Schleifen&amp;body=Ich%20freue%20mich%20auf%20Deinen%20Kommentar!Moritz">Kommentar schreiben</a>
+              <a target="_blank" href="mailto:kommentare@sauer.io?subject=Kommentar%20zu%20Hugo%20Website%20Generator%20%e2%80%93%20Hilfreiche%20Code-Snippets&amp;body=Ich%20freue%20mich%20auf%20Deinen%20Kommentar!Moritz">Kommentar schreiben</a>
             
 
         </small>
