@@ -37,7 +37,7 @@
       "height":  900 
     },
     "genre": "schreibt",
-    "keywords": "hugo, webdesign",
+    
     "wordcount":  1118 ,
     "url": "https:\/\/moritz.sauer.io\/schreibt\/2020-06-01-hugo-website-generator\/",
     "datePublished": "2020-05-01",
@@ -57,7 +57,7 @@
       "@type": "Person",
       "name": "Moritz mo. Sauer"
     },
-    "description": "Hugo ist ein Static Website Generator, der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io. An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.\nInhaltsverzeichnis\n Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann…   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht."
+    "description": "Hugo ist ein Static Website Generator, der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io. An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.\nInhaltsverzeichnis\n Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann…   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach schlagwortn Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht."
 
   }
   </script>
@@ -124,7 +124,7 @@
       <ol>
         <li><a href="#eine-section-_mit_-index-seite-ausgeben">Eine Section <em>mit</em> Index-Seite ausgeben</a></li>
         <li><a href="#eine-section-_ohne_-index-seite-ausgeben">Eine Section <em>ohne</em> Index-Seite ausgeben</a></li>
-        <li><a href="#ausgabe-steuern-nach-schlagworten">Ausgabe steuern nach Schlagworten</a></li>
+        <li><a href="#ausgabe-steuern-nach-schlagwortn">Ausgabe steuern nach schlagwortn</a></li>
         <li><a href="#range-und-data">Range und Data</a></li>
         <li><a href="#sortieren-mit-sort">Sortieren mit <code>sort</code></a></li>
         <li><a href="#umgekehrte-sortierung-mit-reverse">Umgekehrte Sortierung mit <code>reverse</code></a></li>
@@ -200,7 +200,7 @@
 <dd>In diesen Ordner gehören Bilder, Javascripte, Fonts, Mediendateien,…</dd>
 </dl>
 <h2 id="if-abfragen-mit-hugo">if-Abfragen mit Hugo</h2>
-<p>Bei meiner <a href="https://moritz.sauer.io/tags/webdesign/">Webdesign</a>-Arbeit mit dem <a href="https://moritz.sauer.io/tags/hugo/">Website Generator Hugo</a> stolpere ich immer wieder über die Konstruktion von <em>if</em>- oder <em>where</em>-Abfragen. Hier zahlreiche funktionierende Beispiele…</p>
+<p>Bei meiner <a href="https://moritz.sauer.io/schlagwort/webdesign/">Webdesign</a>-Arbeit mit dem <a href="https://moritz.sauer.io/schlagwort/hugo/">Website Generator Hugo</a> stolpere ich immer wieder über die Konstruktion von <em>if</em>- oder <em>where</em>-Abfragen. Hier zahlreiche funktionierende Beispiele…</p>
 <h3 id="wenn-_in-section_-dann">Wenn <em>in .Section</em>, dann…</h3>
 <pre><code>{{ if (eq .Section &quot;pages&quot;) }}
 &lt;!-- wenn in Section pages --&gt;
@@ -226,7 +226,7 @@
 <pre><code>{{ range where .Site.RegularPages &quot;Section&quot; &quot;blog&quot; }}
   &lt;li&gt;&lt;a href=&quot;{{.Permalink}}&quot;&gt;{{.Title}}&lt;/a&gt;&lt;/li&gt;
 {{ end }}
-</code></pre><h3 id="ausgabe-steuern-nach-schlagworten">Ausgabe steuern nach Schlagworten</h3>
+</code></pre><h3 id="ausgabe-steuern-nach-schlagwortn">Ausgabe steuern nach schlagwortn</h3>
 <pre><code>{{ range .Site.Taxonomies.tags.webdesign }}
   &lt;li&gt;&lt;a href=&quot;{{.Permalink}}&quot;&gt;{{.Title}}&lt;/a&gt;&lt;/li&gt;
 {{ end }}
@@ -245,7 +245,7 @@
     {{ end }}
 </code></pre><h3 id="zeige-eine-liste-an-tags-an">Zeige eine Liste an Tags an</h3>
 <pre><code>    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-      &lt;a href=&quot;/tags/{{ $name | urlize }}&quot;&gt;{{ $name }}&lt;/a&gt;
+      &lt;a href=&quot;/schlagwort/{{ $name | urlize }}&quot;&gt;{{ $name }}&lt;/a&gt;
     {{ end }}
 </code></pre><h3 id="führe-eine-schleife-x-mal-aus">Führe eine Schleife X-Mal aus</h3>
 <p>Du kannst <code>seq</code> mit <code>range</code>und <code>after</code> kombinieren, um eine bestimmte Anzahl von X Elementen zu erhalten.</p>
