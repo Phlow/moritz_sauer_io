@@ -50,7 +50,7 @@ Insgesamt ein lohnender Ausflug, um mal abzuschalten.</description>
       <pubDate>Mon, 01 Jun 2020 14:39:29 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/info/</guid>
-      <description>Für diese Website ist laut Impressum Moritz »mo.« Sauer verantwortlich. Dort findest Du auch die Datenschutzerklärung. Für die Kommunikation dient die Kontaktseite.</description>
+      <description>Für diese Website ist laut Impressum Moritz »mo.« Sauer verantwortlich. Dort findest Du auch die Datenschutzerklärung . Für die Kommunikation dient die Kontaktseite .</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@ Insgesamt ein lohnender Ausflug, um mal abzuschalten.</description>
       <pubDate>Fri, 01 May 2020 14:39:29 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/</guid>
-      <description>Hugo ist ein Static Website Generator, der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io. An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.
+      <description>Hugo ist ein Static Website Generator , der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io . An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.
 Inhaltsverzeichnis
  Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann…   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach schlagwortn Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht.</description>
     </item>
@@ -82,7 +82,7 @@ Inhaltsverzeichnis
       <guid>https://moritz.sauer.io/schreibt/china-ueberwachung/</guid>
       <description>Wenn Kinder in eine Grundschule in Shenzhen (Video) gehen, laufen Sie erst einmal an der Gesichtserkennung vorbei, um in die Schule zu kommen.
 Ein größerer Baustein in der Überwachung ist die »Social Media-Plattform« WeChat. WeChat dient als Plattform für soziale Interaktionen, ist eine Form von Währung, eine Dating-App, ein Werkzeug für Sportmannschaften und ein Nachrichtenlieferant…
-WeChat selbst, lässt sich von der chinesischen Regierung überwachen. Wie wichtig WeChat im Alltag eines Chinesen ist und was passiert, wenn man ausgeschlossen wird, liest Du im BBC-Artikel »China social media: WeChat and the Surveillance State«</description>
+WeChat selbst, lässt sich von der chinesischen Regierung überwachen. Wie wichtig WeChat im Alltag eines Chinesen ist und was passiert, wenn man ausgeschlossen wird, liest Du im BBC-Artikel »China social media: WeChat and the Surveillance State« </description>
     </item>
     
     <item>
@@ -103,8 +103,8 @@ Inhaltsverzeichnis
       
       <guid>https://moritz.sauer.io/schreibt/buchkritik-jessica-bruder-nomadland/</guid>
       <description>In »Nomadland« steigen wir mit Jessica Bruder in einen Van und folgen den Spuren der »neuen« Nomaden Amerikas. Es ist eine herzerschütternde Reise.
-Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag »Meet the CamperForce, Amazon&amp;rsquo;s Nomadic Retiree Army« auf Wired.com geworden. Anschließend habe ich das Buch gekauft und es hat sich vollkommen gelohnt. Aber worum geht&amp;rsquo;s?
-Jessica Bruder  »Nomadland« basiert auf einer dreijährigen Recherche der Journalistin Jessica Bruder.</description>
+  Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag »Meet the CamperForce, Amazon&amp;rsquo;s Nomadic Retiree Army« auf Wired.com geworden. Anschließend habe ich das Buch gekauft und es hat sich vollkommen gelohnt. Aber worum geht&amp;rsquo;s?
+Jessica Bruder   »Nomadland« basiert auf einer dreijährigen Recherche der Journalistin Jessica Bruder .</description>
     </item>
     
     <item>
@@ -122,7 +122,9 @@ Jessica Bruder  »Nomadland« basiert auf einer dreijährigen Recherche der Jour
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/2018-11-15-webdesign-mit-google-web.dev-optimieren/</guid>
-      <description>&lt;p&gt;Die Google-Plattform &lt;a href=&#34;https://web.dev/&#34;&gt;https://web.dev/&lt;/a&gt; unterstützt Dich als Entwickler von Websites. Neben Test-Werkzeugen, lernst Du moderne Webtechniken über zahlreiche Beiträge. Zum Beispiel, wie Du &lt;a href=&#34;https://web.dev/fast#topic-Optimize-your-images&#34;&gt;Bilder für schnellere Ladezeiten optimierst&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Die Google-Plattform &lt;a href=&#34;https://web.dev/&#34;&gt;https://web.dev/&lt;/a&gt; unterstützt Dich als Entwickler von Websites. Neben Test-Werkzeugen, lernst Du moderne Webtechniken über zahlreiche Beiträge. Zum Beispiel, wie Du 
+&lt;a href=&#34;https://web.dev/fast#topic-Optimize-your-images&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bilder für schnellere Ladezeiten optimierst&lt;/a&gt;
+.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -131,7 +133,9 @@ Jessica Bruder  »Nomadland« basiert auf einer dreijährigen Recherche der Jour
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/2018-06-25-google-fonts-datenschutzerklaerung/</guid>
-      <description>&lt;p&gt;Überall herrscht Verwirrung und in Gesprächen poppt auch immer öfter die Frage auf: &lt;em&gt;Und, was ist mit den &lt;a href=&#34;https://fonts.google.com/&#34;&gt;Google Fonts&lt;/a&gt;?&lt;/em&gt; Tja, wenn die Google Fonts von den Google Servern nachgeladen werden, dann muss auch auf Google Fonts in der Datenschutzerklärung hingewiesen werden.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Überall herrscht Verwirrung und in Gesprächen poppt auch immer öfter die Frage auf: &lt;em&gt;Und, was ist mit den 
+&lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Fonts&lt;/a&gt;
+?&lt;/em&gt; Tja, wenn die Google Fonts von den Google Servern nachgeladen werden, dann muss auch auf Google Fonts in der Datenschutzerklärung hingewiesen werden.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -150,7 +154,11 @@ Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl 
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/edgedancer-brandon-sanderson/</guid>
-      <description>&lt;img src=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.jpg&#34; alt=&#34;Edgedancer (Sturmlicht-Chroniken)&#34;&gt;
+      <description>&lt;picture&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.webp&#34;&gt;
+  &lt;source type=&#34;image/jpeg&#34; srcset=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.jpg&#34;&gt;
+  &lt;img src=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.jpg&#34; alt=&#34;Edgedancer (Sturmlicht-Chroniken)&#34; /&gt;
+&lt;/picture&gt;
 &lt;p&gt;Die Fantasy-Welt Roschar der Sturmlicht Chroniken von Brandon Sanderson gestaltet sich so komplex, dass die Nebenschauplätze genauso spannend sind, wie der Zyklus selbst. Darum widmet Brandon Sanderson mit »Edgedancer« – in einem für seine Verhältnisse kleinen Buch – seine Aufmerksamkeit der quirligen, faszinierenden und witzigen Lift.&lt;/p&gt;</description>
     </item>
     
@@ -198,7 +206,15 @@ Die Reihe »Ästhetik des Buches« des Wallstein Verlages setzt sich mit den The
       
       <guid>https://moritz.sauer.io/biografie/</guid>
       <description>&lt;img style=&#34;transform: rotate(-1deg);&#34; src=&#34;https://moritz.sauer.io/img/moritz_mo._sauer_schwarz_weiss-1280x719.jpg&#34; alt=&#34;Moritz »mo.« Sauer&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Moritz »mo.« Sauer&lt;/strong&gt; ist &lt;a href=&#34;https://moritz.sauer.io/biografie/&#34;&gt;Journalist&lt;/a&gt;, &lt;a href=&#34;https://moritz.sauer.io/seminare/&#34;&gt;Dozent&lt;/a&gt;, &lt;a href=&#34;https://moritz.sauer.io/buecher/&#34;&gt;Buchautor&lt;/a&gt; und &lt;a href=&#34;https://moritz.sauer.io/webdesign/&#34;&gt;Webdesigner&lt;/a&gt;. Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Moritz »mo.« Sauer&lt;/strong&gt; ist 
+&lt;a href=&#34;https://moritz.sauer.io/biografie/&#34;&gt;Journalist&lt;/a&gt;
+, 
+&lt;a href=&#34;https://moritz.sauer.io/seminare/&#34;&gt;Dozent&lt;/a&gt;
+, 
+&lt;a href=&#34;https://moritz.sauer.io/buecher/&#34;&gt;Buchautor&lt;/a&gt;
+ und 
+&lt;a href=&#34;https://moritz.sauer.io/webdesign/&#34;&gt;Webdesigner&lt;/a&gt;
+. Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -226,7 +242,7 @@ Die Reihe »Ästhetik des Buches« des Wallstein Verlages setzt sich mit den The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/buecher/</guid>
-      <description>&lt;p&gt;Mittlerweile habe ich gemeinsam mit dem O&amp;rsquo;Reilly Verlag sieben Sachbücher herausgegeben. Mein &lt;em&gt;Bestseller&lt;/em&gt; »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mittlerweile habe ich gemeinsam mit dem O’Reilly Verlag sieben Sachbücher herausgegeben. Mein &lt;em&gt;Bestseller&lt;/em&gt; »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -255,7 +271,7 @@ Die Reihe »Ästhetik des Buches« des Wallstein Verlages setzt sich mit den The
       <guid>https://moritz.sauer.io/seminare/</guid>
       <description>Wissensvermittlung ist meine Leidenschaft. Das Format spielt für mich erst einmal keine Rolle, auch nicht die Anzahl der Teilnehmer.
 Gerne unterrichte ich in kleinen Gruppen, weil dann jeder Fragen stellen kann. Gezielt helfe ich aber auch Einzelpersonen, um gemeinsam z.B. eine WordPress-Website fertig zu stellen. Ich habe auch schon vor mehr als 400 Leuten gesprochen: Alles eine Frage der Vorbereitung.
-Ob Sie eines meiner Bücher lesen, meine Videoanleitungen auf YouTube anschauen oder eines meiner zahlreichen gutbesuchten Seminare buchen.</description>
+Ob Sie eines meiner Bücher lesen , meine Videoanleitungen auf YouTube anschauen oder eines meiner zahlreichen gutbesuchten Seminare buchen.</description>
     </item>
     
     <item>
