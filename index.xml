@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Thu, 04 Jun 2020 15:33:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 15:25:03 +0200</lastBuildDate>
     
 	<atom:link href="https://moritz.sauer.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo: Markdown Render Hooks &#43; webp = Noch schnellere Websites</title>
+      <link>https://moritz.sauer.io/schreibt/2020-06-18-webp/</link>
+      <pubDate>Thu, 18 Jun 2020 15:25:03 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2020-06-18-webp/</guid>
+      <description>Mit Hugo Markdown Render Hooks generiert man aus einfachem Markdown inviduelles HTML. Das ermöglicht den Einsatz von webp-Bilder plus &amp;lt;picture&amp;gt;.
+Meine Websites Phlow.de und moritz.sauer.io baue ich mit Hugo . Die Beiträge verfasse ich in Markdown und seit Längerem wollte ich die Website beschleunigen, indem ich webp-Bilder nutze. Und dafür habe gibt es jetzt eine einfache Lösung.
+Inhaltsverzeichnis
+ webp-Bilder aus JPG und PNG-Bildern generieren Vergleich komprimierter Bilder mit jpg, guetzli-jpg und webp  Original JPG-Bild JPG mit guetzli Qualität 85 optimiert Bild mit webp und Qualität 80 optimiert   Hugo Markdown Render Hooks übernehmen die Arbeit substr ersetzt die jpg-Endung mit wepb    Das webp-Format verkleinert Bilder in der Dateigröße besser als JPG.</description>
+    </item>
     
     <item>
       <title>Einfaches Raster mit dem CSS Grid</title>

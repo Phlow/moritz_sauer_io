@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Thu, 04 Jun 2020 15:33:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 15:25:03 +0200</lastBuildDate>
     
 	<atom:link href="https://moritz.sauer.io/schlagwort/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>hugo</title>
+      <link>https://moritz.sauer.io/schlagwort/hugo/</link>
+      <pubDate>Thu, 18 Jun 2020 15:25:03 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schlagwort/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>webdesign</title>
       <link>https://moritz.sauer.io/schlagwort/webdesign/</link>
-      <pubDate>Thu, 04 Jun 2020 15:33:03 +0200</pubDate>
+      <pubDate>Thu, 18 Jun 2020 15:25:03 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/schlagwort/webdesign/</guid>
       <description></description>
@@ -45,15 +54,6 @@
       <pubDate>Mon, 01 Jun 2020 14:39:29 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/schlagwort/wandern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://moritz.sauer.io/schlagwort/hugo/</link>
-      <pubDate>Fri, 01 May 2020 14:39:29 +0200</pubDate>
-      
-      <guid>https://moritz.sauer.io/schlagwort/hugo/</guid>
       <description></description>
     </item>
     
