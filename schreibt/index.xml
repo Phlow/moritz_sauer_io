@@ -14,10 +14,10 @@
     
     <item>
       <title>Hugo: Markdown Render Hooks &#43; webp = Noch schnellere Websites</title>
-      <link>https://moritz.sauer.io/schreibt/2020-06-18-webp/</link>
+      <link>https://moritz.sauer.io/schreibt/2020-06-18-hugo-webp-picture/</link>
       <pubDate>Thu, 18 Jun 2020 15:25:03 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/schreibt/2020-06-18-webp/</guid>
+      <guid>https://moritz.sauer.io/schreibt/2020-06-18-hugo-webp-picture/</guid>
       <description>Mit Hugo Markdown Render Hooks generiert man aus einfachem Markdown inviduelles HTML. Das ermöglicht den Einsatz von webp-Bilder plus &amp;lt;picture&amp;gt;.
 Meine Websites Phlow.de und moritz.sauer.io baue ich mit Hugo . Die Beiträge verfasse ich in Markdown und seit Längerem wollte ich die Website beschleunigen, indem ich webp-Bilder nutze. Und dafür habe gibt es jetzt eine einfache Lösung.
 Inhaltsverzeichnis
