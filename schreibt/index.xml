@@ -74,7 +74,7 @@ Insgesamt ein lohnender Ausflug, um mal abzuschalten.</description>
       <guid>https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/</guid>
       <description>Hugo ist ein Static Website Generator , der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io . An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.
 Inhaltsverzeichnis
- Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann… Wenn Schlagwort, dann bitte nur das erste ausgeben   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht.</description>
+ Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes Hugo Standard-Variablen  Eigene Variablen erstellen Globale Variablen erstellen   if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann… Wenn Schlagwort, dann bitte nur das erste ausgeben   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht.</description>
     </item>
     
     <item>
@@ -193,6 +193,37 @@ Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl 
       <guid>https://moritz.sauer.io/schreibt/2017-03-08-the-attention-merchants/</guid>
       <description>In seinem Buch »The Attention Merchants« untersucht Tim Woo, wie das Buhlen um unsere Aufmerksamkeit begann und welchen Siedepunkt es heute erreicht hat. Anhand einer präzisen Aufarbeitung der Geschichte der Werbung, des Marketings und seiner verschiedenen Taktiken nimmt Tim Woo uns Leser auf eine außergewöhnliche Reise mit, die kritisch die Durchdringung unseres Lebens durch Werbung und Beeinflussung der Gedanken durchleuchtet.
 Es gibt immer wieder Fachbücher , die mir die Augen öffnen und einen Aspekt des Lebens genauer beleuchten.</description>
+    </item>
+    
+    <item>
+      <title>Von Lubuntu nach Bodhi</title>
+      <link>https://moritz.sauer.io/schreibt/2017-03-06-bodhi-linux/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-03-06-bodhi-linux/</guid>
+      <description>&lt;p&gt;Die Erleuchtung kam mit Bodhi Linux. Und mein Rechner reiste von Lubuntu nach Bodhi. Denn Bodhi sieht schicker aus, läuft noch schneller und bietet einige hilfreiche Werkzeuge, die die Arbeit mit dieser Version eines 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ Betriebssystem erleichtern. Ein Bericht.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Von Ubuntu nach Lubuntu</title>
+      <link>https://moritz.sauer.io/schreibt/2017-02-28-lubuntu/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-02-28-lubuntu/</guid>
+      <description>&lt;p&gt;Meine ersten Gehversuche mit Ubuntu waren leicht. Gestört hat mich dann bei meinen Experimenten das träge System. Das lag einerseits an meiner alten Maschine, andererseits aber auch an der aufgeblähten grafischen Oberfläche namens Unity. Ich habe dann nach einer Alternative gesucht und Lubuntu gefunden. Und &lt;em&gt;schwups&lt;/em&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Erfahrungsbericht Ubuntu</title>
+      <link>https://moritz.sauer.io/schreibt/2017-02-27-ubuntu-start/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-02-27-ubuntu-start/</guid>
+      <description>&lt;p&gt;Megakonzerne wie Apple sind mir unsympathisch und werden immer unsympathischer. Ich nutze seit Jahren mein erstes und solide arbeitendes Macbook Pro. Ich bin mit diesem Computer sehr zufrieden, bis auf die lächerlichen zwei USB-Schnittstellen. Aber während Apple sich weigert in Europa Steuern und hinterzogenes Geld zu bezahlen, Apple neuere Computer immer weniger für Professionelle produziert, die erst mit zig Kabeladaptern funktionieren, habe ich immer mehr das Gefühl, dass man den Konzern boykottieren sollte. Ist da 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ bzw. Ubuntu eine Alternative? Ein Erfahrungsbericht meiner ersten Schritte.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -139,6 +139,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://moritz.sauer.io/schreibt/2017-03-06-bodhi-linux/</loc>
+    <lastmod>2017-03-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/2017-02-28-lubuntu/</loc>
+    <lastmod>2017-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/2017-02-27-ubuntu-start/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://moritz.sauer.io/schreibt/2017-01-06-brettspiel-go/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
