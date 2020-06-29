@@ -181,6 +181,15 @@ Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl 
     </item>
     
     <item>
+      <title>Buchgliederung &amp; Buchgestaltung – Buchstruktur und Gliederung eines Buches</title>
+      <link>https://moritz.sauer.io/schreibt/2018-05-18-buchgliederung-buchgestaltung-buchstruktur/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2018-05-18-buchgliederung-buchgestaltung-buchstruktur/</guid>
+      <description>&lt;p&gt;Zu einem regulären Buch gehört nicht nur der eigentliche Inhalt (im Englischen body matter), sondern auch Seiten für Impressum , Rechte, Inhalsverzeichnis, Widmung, Index und so weiter… Dieser Artikel untersucht den Aufbau eines Buches.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Fantasy Buch – Edgedancer von Brandon Sanderson</title>
       <link>https://moritz.sauer.io/schreibt/edgedancer-brandon-sanderson/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
@@ -192,6 +201,17 @@ Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl 
   &lt;img src=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.jpg&#34; alt=&#34;Edgedancer (Sturmlicht-Chroniken)&#34; /&gt;
 &lt;/picture&gt;
 &lt;p&gt;Die Fantasy-Welt Roschar der Sturmlicht Chroniken von Brandon Sanderson gestaltet sich so komplex, dass die Nebenschauplätze genauso spannend sind, wie der Zyklus selbst. Darum widmet Brandon Sanderson mit »Edgedancer« – in einem für seine Verhältnisse kleinen Buch – seine Aufmerksamkeit der quirligen, faszinierenden und witzigen Lift.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Google Fonts &amp; Microsoft-Schriften für Linux installieren</title>
+      <link>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</guid>
+      <description>&lt;p&gt;Die Installation von Schriften bei 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ ist wunderbar unkompliziert. Ein paar Befehle in das Terminal kopiert und schon stehen die Standardschriften von Microsoft und sämtliche Google Fonts zur Verfügung. Eine Kurzanleitung für die schnelle Installation von ca. 900 professionellen Schriften.&lt;/p&gt;</description>
     </item>
     
     <item>

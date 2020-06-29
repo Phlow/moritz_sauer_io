@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://moritz.sauer.io/schlagwort/linux/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Fonts &amp; Microsoft-Schriften für Linux installieren</title>
+      <link>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</guid>
+      <description>&lt;p&gt;Die Installation von Schriften bei 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ ist wunderbar unkompliziert. Ein paar Befehle in das Terminal kopiert und schon stehen die Standardschriften von Microsoft und sämtliche Google Fonts zur Verfügung. Eine Kurzanleitung für die schnelle Installation von ca. 900 professionellen Schriften.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Von Lubuntu nach Bodhi</title>
